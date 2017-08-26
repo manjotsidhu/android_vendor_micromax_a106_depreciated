@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/etc/firmware/WIFI_RAM_CODE_SOC:system/etc/firmware/WIFI_RAM_CODE_SOC \
     vendor/micromax/a106/proprietary/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
     vendor/micromax/a106/proprietary/etc/firmware/catcher_filter_1_wg_n.bin:system/etc/firmware/catcher_filter_1_wg_n.bin \
-    vendor/micromax/a106/proprietary/etc/firmware/modem.img:system/etc/firmware/modem.img \
+    vendor/micromax/a106/proprietary/etc/firmware/modem_1_wg_n.img:system/etc/firmware/modem.img \
     vendor/micromax/a106/proprietary/etc/firmware/mt6627/mt6627_fm_v1_coeff.bin:system/etc/firmware/mt6627/mt6627_fm_v1_coeff.bin \
     vendor/micromax/a106/proprietary/etc/firmware/mt6627/mt6627_fm_v1_patch.bin:system/etc/firmware/mt6627/mt6627_fm_v1_patch.bin \
     vendor/micromax/a106/proprietary/etc/firmware/mt6627/mt6627_fm_v2_coeff.bin:system/etc/firmware/mt6627/mt6627_fm_v2_coeff.bin \
