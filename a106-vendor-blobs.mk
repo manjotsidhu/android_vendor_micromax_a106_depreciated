@@ -78,8 +78,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
     vendor/micromax/a106/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
     vendor/micromax/a106/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
-    vendor/micromax/a106/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault.so \
-    vendor/micromax/a106/proprietary/lib/libaudiopolicymanagersprout.so:system/lib/libaudiopolicymanagersprout.so \
     vendor/micromax/a106/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
     vendor/micromax/a106/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
     vendor/micromax/a106/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
